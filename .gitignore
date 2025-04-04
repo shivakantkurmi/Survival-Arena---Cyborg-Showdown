@@ -1,0 +1,11 @@
+# Unity specific files to ignore
+Library/
+Temp/
+Logs/
+Obj/
+.vs/
+.vscode/
+Build/
+Builds/
+UserSettings/
+Packages/com.unity.collab-proxy/
